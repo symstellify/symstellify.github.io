@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "문과생 개발일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "문소영"
 description              : "An amazing website."
 url                      : https://symstellify.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "문소영"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "문과생 **공대생** 만들기 프로젝트"
+  location         : "대한민국, 김해시"
   email            :
   links:
     - label: "Email"
